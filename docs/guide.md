@@ -1,3 +1,0 @@
-# Headline
-
-> An aweso project.
